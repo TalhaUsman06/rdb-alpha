@@ -85,3 +85,4 @@ clear
 mkdir boilerplate
 mkdir website
 ls --color=auto
+cd website
