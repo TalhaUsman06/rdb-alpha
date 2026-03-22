@@ -151,3 +151,6 @@ ls --color=auto
 mkdir fonts
 ls --color=auto
 mv roboto.woff /workspace/project/website/fonts
+find website
+find /workspace/project/website
+find
