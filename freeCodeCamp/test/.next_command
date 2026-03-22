@@ -121,3 +121,4 @@ pwd
 ..
 cd ..
 cp background.jpg /workspace/project/website/images
+cd images
