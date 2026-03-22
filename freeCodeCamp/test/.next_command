@@ -134,3 +134,4 @@ cp footer.jpeg /workspace/project/website/images
 cd images
 ls --color=auto
 cd ..
+ls --color=auto
