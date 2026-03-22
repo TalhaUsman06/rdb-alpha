@@ -256,3 +256,10 @@ find -name header.png
 fin
 find -name footer.jpeg
 mv ./images/footer.jpeg ./client/assets/images
+__vsc_prompt_cmd_original
+cd client/assets/images
+ls --color=auto
+find
+cd ../..
+cd ..
+find
