@@ -84,3 +84,4 @@ ls --color=auto
 clear
 mkdir boilerplate
 mkdir website
+ls --color=auto
