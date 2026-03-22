@@ -145,3 +145,4 @@ mv roboto.font roboto.woff
 mv roboto.woff roboto.font
 mv roboto.woof roboto.woff
 ls --color=auto
+mv lato.font lato.ttf
