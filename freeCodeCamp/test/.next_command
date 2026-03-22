@@ -130,3 +130,4 @@ ls --color=auto
 clear
 ls --color=auto
 cp header.png /workspace/project/website/images
+cp footer.jpeg /workspace/project/website/images
