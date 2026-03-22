@@ -163,3 +163,4 @@ mv menlo.otf /workspace/project/website/fonts
 find
 mkdir client
 mkdir client/src
+mv index.html /workspace/project/website/client/src
