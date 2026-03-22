@@ -154,3 +154,8 @@ mv roboto.woff /workspace/project/website/fonts
 find website
 find /workspace/project/website
 find
+ls --color=auto
+clear
+ls --color=auto
+mvlato.ttf /workspace/project/website/fonts
+mv lato.ttf /workspace/project/website/fonts
