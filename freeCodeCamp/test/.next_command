@@ -404,3 +404,4 @@ mv website website-bolierplte
 ls --color=auto
 mv website-bolierplate website-boilerplate
 mv website-bolierplte website-boilerplate
+ls --color=auto
