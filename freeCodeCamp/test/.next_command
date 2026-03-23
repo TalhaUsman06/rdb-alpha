@@ -421,3 +421,6 @@ clear
 echo goodbye
 echo goodbye terminal
 exit
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/vscode/bin/linux-x64/07ff9d6178ede9a1bd12ad3399074d726ebe6e43/node' -p '"8f3ed8872245" + JSON.stringify(process.env) + "8f3ed8872245"'
