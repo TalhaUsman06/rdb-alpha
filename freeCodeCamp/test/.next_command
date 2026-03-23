@@ -405,3 +405,4 @@ ls --color=auto
 mv website-bolierplate website-boilerplate
 mv website-bolierplte website-boilerplate
 ls --color=auto
+cp --help
