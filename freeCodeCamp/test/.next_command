@@ -411,3 +411,9 @@ ls --color=auto
 find
 find -name toms-website
 find toms-website
+ls --color=auto
+cd ..
+find project
+cd project
+find
+find website-boilerplate
