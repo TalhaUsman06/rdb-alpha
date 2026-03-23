@@ -380,3 +380,4 @@ ls --color=auto
 clear
 ls --color=auto
 rm --help
+rm -r fonts
