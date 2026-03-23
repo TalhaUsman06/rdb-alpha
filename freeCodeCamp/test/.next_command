@@ -398,3 +398,9 @@ echo for the freeCodeCamp bash lessons >> README.md
 more README.md
 cd ..
 ls --color=auto
+mv website-bolierplte website
+__vsc_prompt_cmd_original
+mv website website-bolierplte
+ls --color=auto
+mv website-bolierplate website-boilerplate
+mv website-bolierplte website-boilerplate
