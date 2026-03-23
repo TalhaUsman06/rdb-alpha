@@ -362,3 +362,21 @@ cd ../../..
 touch lato-light.ttf /workspace/project/website/client/assets/fonts
 touch /workspace/project/website/client/assets/fonts/lato-light.ttf
 find
+rmdir fonts
+cd fonts
+ls --color=auto
+rm lato.ttf,menlo.otf
+rm lato.ttf
+rm menlo.otf
+ls --color=auto
+rm roboto.woff
+cd
+cd ..
+cd/workspace/project/website
+cd /workspace/project/website/client/assets/fonts
+cd ../../..
+rmdir fonts
+ls --color=auto
+clear
+ls --color=auto
+rm --help
