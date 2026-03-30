@@ -1,0 +1,3 @@
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/vscode/bin/linux-x64/cfbea10c5ffb233ea9177d34726e6056e89913dc/node' -p '"a7ee7678a214" + JSON.stringify(process.env) + "a7ee7678a214"'
